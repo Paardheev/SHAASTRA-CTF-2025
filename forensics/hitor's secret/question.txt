@@ -1,0 +1,5 @@
+Hitori-san, a shy girl with a secret crush, decides to confess her feelings to Hannu, a boy in her class, in a unique way. She nervously hands him a USB drive containing two funny photos of herself and a mysterious zip file before running away, whispering that it contains her proposal.
+
+Your mission is to help Hannu in decoding Hitori-san's proposal!!!
+
+Hint: notice difference between png files (cost - 0)
