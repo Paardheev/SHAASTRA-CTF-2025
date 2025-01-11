@@ -1,0 +1,11 @@
+the log file started with "salted.." which means it's a aes encryption
+
+the password.txt has algorithm and password
+
+openssl enc -d -aes-256-cbc -in key.log -out decryptred_key.log
+
+this looks like ssl keys, lets load it in pcapng file.
+
+question says they have logged in somewhere, hence lets check http packets, 
+
+one request contains password feild with flag, Shaastra{NE3W0RK!NG}
