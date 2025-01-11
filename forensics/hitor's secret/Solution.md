@@ -6,4 +6,6 @@ The extracted text contains large number of strings which might be password for 
 
 We can grep Shaastra{ recursively in the folder to get the flag.
 
+(solve.py is for bruteforcing the zip file's password and flagfinder.sh is for searching for flag recursively in the floder using grep)
+
 Shaastra{I'm !N Your heart}
