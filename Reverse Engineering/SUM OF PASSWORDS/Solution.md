@@ -46,6 +46,8 @@ int main(void)
   return local_c;
 }
 
+If the image isn't clear, above is the decomiled code.
+
 Here you can see that it is the sum of factors of the number 0x311f5 which is 201205
 
 Which indeed is 241452.
