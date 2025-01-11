@@ -6,4 +6,6 @@
 3.Search Instagram id, the account has a one post, search in comments
 Shaastra{!h@nk#_f0r_@)@$}
 
+(account is private now)
+
 ![stalking](https://github.com/user-attachments/assets/8fff5aa3-7437-4194-a1be-b2577e061530)
