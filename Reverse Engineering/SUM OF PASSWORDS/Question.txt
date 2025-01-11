@@ -2,4 +2,3 @@ Can you find what does the main function return ?  Let it be m(in decimal).
 Sum of m and a hidden password and plus 1 is the password for the file.
 
 Hint: Something is hidden!!!
-Sum of m and password1 is the password for the file. (Cost - 5)
